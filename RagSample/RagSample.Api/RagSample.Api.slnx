@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../RagSample.Core/RagSample.Core.csproj" />
+  <Project Path="../RagSample.Infrastructure/RagSample.Infrastructure.csproj" />
+  <Project Path="RagSample.Api.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@RagSample.Api_HostAddress = http://localhost:5251
+
+GET {{RagSample.Api_HostAddress}}/Documents/Ask?userQuery=When elections will happen
+Accept: application/json
+
+###
